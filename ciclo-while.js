@@ -1,5 +1,5 @@
 let intento = 1
-const maximoIntentos = 3
+const maximoIntentos = 5
 
 console.log("Práctica inicial con while")
 console.log("Vamos a repetir un proceso mientras el intento sea menor o igual al máximo.")

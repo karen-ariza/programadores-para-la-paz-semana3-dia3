@@ -1,47 +1,54 @@
 Conceptos básicos de while – Semana 3 Día 3
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Karen Ariza
+Fecha:25/06/2026
+Nombre de la rama:kare_ariza
 
 Responde con tus propias palabras.
 
 1. ¿Qué significa repetir instrucciones en programación?
 
-Respuesta:
+Respuesta: Significa ejecutar las mismas instrucciones varias 
+veces hasta que se cumpla una condición determinada.
 
 2. ¿Qué es un ciclo while?
 
-Respuesta:
+Respuesta: Es una estructura que repite un bloque de código 
+mientras una condición sea verdadera.
 
 3. ¿Qué significa la condición dentro de un while?
 
-Respuesta:
+Respuesta: Es la regla que se evalúa antes de cada repetición 
+para decidir si el ciclo continúa o termina.
 
 4. ¿Por qué es importante cambiar una variable dentro del while?
 
-Respuesta:
+Respuesta: Porque permite que la condición cambie y el ciclo pueda finalizar cuando corresponda.
 
 5. ¿Qué es un ciclo infinito?
 
-Respuesta:
+Respuesta: Es un ciclo que nunca termina porque la condición siempre permanece verdadera.
 
 6. ¿Qué hace el comando npm run practicar?
 
-Respuesta:
+Respuesta: Ejecuta un script llamado practicar que está configurado dentro 
+del proyecto para realizar la práctica.
 
 7. ¿Dónde está definido el comando practicar?
 
-Respuesta:
+Respuesta: Está definido en el archivo package.json, dentro de la sección scripts.
 
 8. ¿Qué diferencia hay entre node archivo.js y npm run practicar?
 
-Respuesta:
+Respuesta: El comando node archivo.js ejecuta un archivo JavaScript específico,
+mientras que npm run practicar ejecuta un script previamente configurado en el proyecto.
 
 9. ¿Cómo puede servir un while para revisar varias fuentes de información?
 
-Respuesta:
+Respuesta: Permite revisar una fuente tras otra de forma automática hasta completar 
+todas las que se necesitan verificar.
 
 10. ¿Cómo puede relacionarse un ciclo con el seguimiento de propuestas comunitarias?
 
-Respuesta:
+Respuesta: Puede utilizarse para revisar continuamente el estado de varias propuestas 
+hasta que todas hayan sido atendidas o finalizadas.

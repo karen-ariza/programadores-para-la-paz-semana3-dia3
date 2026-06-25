@@ -1,5 +1,5 @@
 let propuestaActual = 1
-const totalPropuestas = 5
+const totalPropuestas = 8
 
 console.log("Conteo de propuestas comunitarias")
 
