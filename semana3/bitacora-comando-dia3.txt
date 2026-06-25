@@ -48,12 +48,12 @@ Respuesta: git status
 
 10. Comando usado para agregar cambios:
 
-Respuesta:
+Respuesta: git add .
 
 11. Comando usado para crear commit:
 
-Respuesta:
+Respuesta: git commit -m
 
 12. Comando usado para publicar la rama:
 
-Respuesta:
+Respuesta: git push -u origin
